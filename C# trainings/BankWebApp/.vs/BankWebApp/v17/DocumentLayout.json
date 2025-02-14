@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankwebapp\\bankwebapp\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\bankwebapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\bankwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\bankwebapp\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE9FE0E7-B78B-48CB-A729-F8769F005E63}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Register.aspx",
+              "RelativeDocumentMoniker": "BankWebApp\\Register.aspx",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Register.aspx",
+              "RelativeToolTip": "BankWebApp\\Register.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T12:03:32.358Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Register.aspx.cs",
+              "RelativeToolTip": "BankWebApp\\Register.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAmJmZmZkewCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:17:36.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Site.Master",
+              "RelativeDocumentMoniker": "BankWebApp\\Site.Master",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Site.Master",
+              "RelativeToolTip": "BankWebApp\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T13:00:20.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Web.config",
+              "RelativeDocumentMoniker": "BankWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankWebApp\\BankWebApp\\Web.config",
+              "RelativeToolTip": "BankWebApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T12:39:55.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\bin\Debug\net8.0\EFCoreAssignment_Models.exe
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\bin\Debug\net8.0\EFCoreAssignment_Models.deps.json
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\bin\Debug\net8.0\EFCoreAssignment_Models.runtimeconfig.json
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\bin\Debug\net8.0\EFCoreAssignment_Models.dll
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\bin\Debug\net8.0\EFCoreAssignment_Models.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\EFCoreAssignment_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\EFCoreAssignment_Models.AssemblyInfoInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\EFCoreAssignment_Models.AssemblyInfo.cs
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\EFCoreAssignment_Models.csproj.CoreCompileInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\EFCoreAssignment_Models.dll
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\refint\EFCoreAssignment_Models.dll
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\EFCoreAssignment_Models.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\EFCoreAssignment_Models.genruntimeconfig.cache
+C:\Users\kgirdhar\Desktop\C# trainings\EFCoreAssignment\EFCoreAssignment_Models\obj\Debug\net8.0\ref\EFCoreAssignment_Models.dll

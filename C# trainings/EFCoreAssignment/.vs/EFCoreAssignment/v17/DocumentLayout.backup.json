@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_models\\models\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|solutionrelative:efcoreassignment_models\\models\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|solutionrelative:efcoreassignment_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_console\\jobsrepo\\jobsoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|solutionrelative:efcoreassignment_console\\jobsrepo\\jobsoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_console\\controller\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|solutionrelative:efcoreassignment_console\\controller\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_console\\jobsrepo\\ijobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6642529-8482-4D5F-BB50-7770C12FB71F}|EFCoreAssignment_Console\\EFCoreAssignment_Console.csproj|solutionrelative:efcoreassignment_console\\jobsrepo\\ijobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26A0F73-33FE-499A-B4A7-60EAC48B53DB}|EFCoreAssignment_DataAccess\\EFCoreAssignment_DataAccess.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26A0F73-33FE-499A-B4A7-60EAC48B53DB}|EFCoreAssignment_DataAccess\\EFCoreAssignment_DataAccess.csproj|solutionrelative:efcoreassignment_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_models\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|solutionrelative:efcoreassignment_models\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_models\\models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|solutionrelative:efcoreassignment_models\\models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_models\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|solutionrelative:efcoreassignment_models\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_models\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|solutionrelative:efcoreassignment_models\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\efcoreassignment\\efcoreassignment_models\\models\\employeeprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E252-24BD-4642-BCC6-2D5E8BA0CE9D}|EFCoreAssignment_Models\\EFCoreAssignment_Models.csproj|solutionrelative:efcoreassignment_models\\models\\employeeprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Console\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\Program.cs",
+              "RelativeToolTip": "EFCoreAssignment_Console\\Program.cs",
+              "ViewState": "AgIAAAcAAADAZGZmZmYFwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:22:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\Controller\\JobsController.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Console\\Controller\\JobsController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\Controller\\JobsController.cs",
+              "RelativeToolTip": "EFCoreAssignment_Console\\Controller\\JobsController.cs",
+              "ViewState": "AgIAAAEAAADozMzMzAwswBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:48:43.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobsOperations.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\JobsRepo\\JobsOperations.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Console\\JobsRepo\\JobsOperations.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\JobsRepo\\JobsOperations.cs",
+              "RelativeToolTip": "EFCoreAssignment_Console\\JobsRepo\\JobsOperations.cs",
+              "ViewState": "AgIAAAkAAADAmpmZmRkfwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:48:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJobs.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\JobsRepo\\IJobs.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Console\\JobsRepo\\IJobs.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Console\\JobsRepo\\IJobs.cs",
+              "RelativeToolTip": "EFCoreAssignment_Console\\JobsRepo\\IJobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:48:09.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeProjects.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\EmployeeProjects.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Models\\Models\\EmployeeProjects.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\EmployeeProjects.cs",
+              "RelativeToolTip": "EFCoreAssignment_Models\\Models\\EmployeeProjects.cs",
+              "ViewState": "AgIAAAMAAABAAAAAAAARwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:32:47.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Models\\Models\\Projects.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Projects.cs",
+              "RelativeToolTip": "EFCoreAssignment_Models\\Models\\Projects.cs",
+              "ViewState": "AgIAAAQAAACgmZmZmZkuwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:27:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Models\\Models\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\EmployeeDetails.cs",
+              "RelativeToolTip": "EFCoreAssignment_Models\\Models\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAwAAAAANDMzMzP5vwYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:16:54.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jobs.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Jobs.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Models\\Models\\Jobs.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Jobs.cs",
+              "RelativeToolTip": "EFCoreAssignment_Models\\Models\\Jobs.cs",
+              "ViewState": "AgIAAAsAAAAAMzMzMzMLwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:03:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_DataAccess\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "EFCoreAssignment_DataAccess\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAABEAAADAmpmZmRkWwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:26:42.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Models\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Department.cs",
+              "RelativeToolTip": "EFCoreAssignment_Models\\Models\\Department.cs",
+              "ViewState": "AgIAAAcAAACAMjMzMzPrvxUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:08:38.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment_Models\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\EFCoreAssignment\\EFCoreAssignment_Models\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCoreAssignment_Models\\Models\\Employee.cs",
+              "ViewState": "AgIAABkAAABA/////38gwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:08:25.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

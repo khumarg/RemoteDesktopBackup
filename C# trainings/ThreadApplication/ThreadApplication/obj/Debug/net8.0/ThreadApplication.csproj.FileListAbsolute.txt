@@ -1,0 +1,14 @@
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\bin\Debug\net8.0\ThreadApplication.exe
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\bin\Debug\net8.0\ThreadApplication.deps.json
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\bin\Debug\net8.0\ThreadApplication.runtimeconfig.json
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\bin\Debug\net8.0\ThreadApplication.dll
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\bin\Debug\net8.0\ThreadApplication.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ThreadApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ThreadApplication.AssemblyInfoInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ThreadApplication.AssemblyInfo.cs
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ThreadApplication.csproj.CoreCompileInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ThreadApplication.dll
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\refint\ThreadApplication.dll
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ThreadApplication.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ThreadApplication.genruntimeconfig.cache
+C:\Users\kgirdhar\Desktop\C# trainings\ThreadApplication\ThreadApplication\obj\Debug\net8.0\ref\ThreadApplication.dll

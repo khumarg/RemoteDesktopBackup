@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankproject\\bankproject\\bankrepo\\bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\bankrepo\\bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankproject\\bankproject\\bankrepo\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\bankrepo\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankproject\\bankproject\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankproject\\bankproject\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankproject\\bankproject\\accountclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\accountclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankproject\\bankproject\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankproject\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1BC3-7186-444B-8921-8D46F4502BF7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Controllers\\BankController.cs",
+              "RelativeDocumentMoniker": "BankProject\\Controllers\\BankController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Controllers\\BankController.cs",
+              "RelativeToolTip": "BankProject\\Controllers\\BankController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:30:13.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Models\\Bank.cs",
+              "RelativeToolTip": "BankProject\\Models\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:30:08.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\BankRepo\\IBank.cs",
+              "RelativeDocumentMoniker": "BankProject\\BankRepo\\IBank.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\BankRepo\\IBank.cs",
+              "RelativeToolTip": "BankProject\\BankRepo\\IBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:30:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankOperations.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\BankRepo\\BankOperations.cs",
+              "RelativeDocumentMoniker": "BankProject\\BankRepo\\BankOperations.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\BankRepo\\BankOperations.cs",
+              "RelativeToolTip": "BankProject\\BankRepo\\BankOperations.cs",
+              "ViewState": "AgIAAB4AAACAmJmZmZkdwEcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:30:00.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Logger.cs",
+              "RelativeDocumentMoniker": "BankProject\\Logger.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Logger.cs",
+              "RelativeToolTip": "BankProject\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:51:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountClass.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\AccountClass.cs",
+              "RelativeDocumentMoniker": "BankProject\\AccountClass.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\AccountClass.cs",
+              "RelativeToolTip": "BankProject\\AccountClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:00:59.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "BankProject\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankProject\\BankProject\\Program.cs",
+              "RelativeToolTip": "BankProject\\Program.cs",
+              "ViewState": "AgIAABIAAABwZmZmZkY2wDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:06:41.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

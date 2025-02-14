@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankapi\\bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankapi\\bankapi\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankapi\\bankapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankapi\\bankapi\\models\\securitydb3685context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\models\\securitydb3685context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\bankapi\\bankapi\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4BA205-F4E1-4EDA-9623-9EA853ABEABA}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Controllers\\BankController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\BankController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Controllers\\BankController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\BankController.cs",
+              "ViewState": "AgIAACsAAADQzMzMzAw7wDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:22:20.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Program.cs",
+              "RelativeToolTip": "BankAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAANDMzMzP3vxEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:19:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BankAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\appsettings.json",
+              "RelativeToolTip": "BankAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T12:16:47.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Models\\Bank.cs",
+              "RelativeToolTip": "BankAPI\\Models\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:15:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityDb3685Context.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Models\\SecurityDb3685Context.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Models\\SecurityDb3685Context.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\BankAPI\\BankAPI\\Models\\SecurityDb3685Context.cs",
+              "RelativeToolTip": "BankAPI\\Models\\SecurityDb3685Context.cs",
+              "ViewState": "AgIAAAAAAAAXmZmZmdkhwBUAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:14:57.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

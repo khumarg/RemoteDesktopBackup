@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kdzKkkux3MXLsuQTaglxT6zV0QWDlVnjRw2Q2M3rexs=",
+  "Source": "TestAuditApp",
+  "BasePath": "_content/TestAuditApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

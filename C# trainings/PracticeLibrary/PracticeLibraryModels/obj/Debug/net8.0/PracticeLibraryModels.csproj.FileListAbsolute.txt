@@ -1,0 +1,14 @@
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\bin\Debug\net8.0\PracticeLibraryModels.exe
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\bin\Debug\net8.0\PracticeLibraryModels.deps.json
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\bin\Debug\net8.0\PracticeLibraryModels.runtimeconfig.json
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\bin\Debug\net8.0\PracticeLibraryModels.dll
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\bin\Debug\net8.0\PracticeLibraryModels.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\PracticeLibraryModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\PracticeLibraryModels.AssemblyInfoInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\PracticeLibraryModels.AssemblyInfo.cs
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\PracticeLibraryModels.csproj.CoreCompileInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\PracticeLibraryModels.dll
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\refint\PracticeLibraryModels.dll
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\PracticeLibraryModels.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\PracticeLibraryModels.genruntimeconfig.cache
+C:\Users\kgirdhar\Desktop\C# trainings\PracticeLibrary\PracticeLibraryModels\obj\Debug\net8.0\ref\PracticeLibraryModels.dll

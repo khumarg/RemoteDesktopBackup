@@ -1,0 +1,11 @@
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\bin\Debug\net8.0\TableLib.deps.json
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\bin\Debug\net8.0\TableLib.dll
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\bin\Debug\net8.0\TableLib.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\TableLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\TableLib.AssemblyInfoInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\TableLib.AssemblyInfo.cs
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\TableLib.csproj.CoreCompileInputs.cache
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\TableLib.dll
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\refint\TableLib.dll
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\TableLib.pdb
+C:\Users\kgirdhar\Desktop\C# trainings\TableLib\TableLib\obj\Debug\net8.0\ref\TableLib.dll

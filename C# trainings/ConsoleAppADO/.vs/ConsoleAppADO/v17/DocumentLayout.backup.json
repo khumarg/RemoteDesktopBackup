@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\consoleappado\\consoleappado\\spclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|solutionrelative:consoleappado\\spclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\consoleappado\\consoleappado\\adodisconnectedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|solutionrelative:consoleappado\\adodisconnectedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\consoleappado\\consoleappado\\adoconnectedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|solutionrelative:consoleappado\\adoconnectedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\consoleappado\\consoleappado\\bulkinsertclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|solutionrelative:consoleappado\\bulkinsertclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\consoleappado\\consoleappado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0D74-B2D7-4EAF-9D4E-05F47F699806}|ConsoleAppADO\\ConsoleAppADO.csproj|solutionrelative:consoleappado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulkInsertClass.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\BulkInsertClass.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO\\BulkInsertClass.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\BulkInsertClass.cs",
+              "RelativeToolTip": "ConsoleAppADO\\BulkInsertClass.cs",
+              "ViewState": "AgIAAAoAAABQzczMzMwnwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:33:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SPClass.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\SPClass.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO\\SPClass.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\SPClass.cs",
+              "RelativeToolTip": "ConsoleAppADO\\SPClass.cs",
+              "ViewState": "AgIAAA8AAAAAaGZmZmYDwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:45:55.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADODisconnectedClass.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\ADODisconnectedClass.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO\\ADODisconnectedClass.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\ADODisconnectedClass.cs",
+              "RelativeToolTip": "ConsoleAppADO\\ADODisconnectedClass.cs",
+              "ViewState": "AgIAAA8AAAAAMjMzMzP5vx8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:11:51.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ADOConnectedClass.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\ADOConnectedClass.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO\\ADOConnectedClass.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\ADOConnectedClass.cs",
+              "RelativeToolTip": "ConsoleAppADO\\ADOConnectedClass.cs",
+              "ViewState": "AgIAAB8AAABAAAAAAAApwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:30:53.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\ConsoleAppADO\\ConsoleAppADO\\Program.cs",
+              "RelativeToolTip": "ConsoleAppADO\\Program.cs",
+              "ViewState": "AgIAAAIAAABCMzMzM5MwwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:27:13.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

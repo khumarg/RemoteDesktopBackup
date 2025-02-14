@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IVPLibraryAPI_DBFirst.props" />
+</Project>

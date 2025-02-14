@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8F1FF-69D9-42DA-9AF9-4EEECA569A6B}|GradeTest\\GradeTest.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\myapp\\gradetest\\mybanktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8F1FF-69D9-42DA-9AF9-4EEECA569A6B}|GradeTest\\GradeTest.csproj|solutionrelative:gradetest\\mybanktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8F1FF-69D9-42DA-9AF9-4EEECA569A6B}|GradeTest\\GradeTest.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\myapp\\gradetest\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8F1FF-69D9-42DA-9AF9-4EEECA569A6B}|GradeTest\\GradeTest.csproj|solutionrelative:gradetest\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740001B7-1243-4072-B203-5433F48CA9D8}|MyApp\\MyApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\myapp\\myapp\\mybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740001B7-1243-4072-B203-5433F48CA9D8}|MyApp\\MyApp.csproj|solutionrelative:myapp\\mybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740001B7-1243-4072-B203-5433F48CA9D8}|MyApp\\MyApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\myapp\\myapp\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740001B7-1243-4072-B203-5433F48CA9D8}|MyApp\\MyApp.csproj|solutionrelative:myapp\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740001B7-1243-4072-B203-5433F48CA9D8}|MyApp\\MyApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740001B7-1243-4072-B203-5433F48CA9D8}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyBankTests.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\GradeTest\\MyBankTests.cs",
+              "RelativeDocumentMoniker": "GradeTest\\MyBankTests.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\GradeTest\\MyBankTests.cs",
+              "RelativeToolTip": "GradeTest\\MyBankTests.cs",
+              "ViewState": "AgIAACcAAABAAQAAAMAjwDsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:54:54.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBank.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\MyApp\\MyBank.cs",
+              "RelativeDocumentMoniker": "MyApp\\MyBank.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\MyApp\\MyBank.cs",
+              "RelativeToolTip": "MyApp\\MyBank.cs",
+              "ViewState": "AgIAAB0AAABAZmZmZuYvwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:48:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\GradeTest\\GradeCalculatorTests.cs",
+              "RelativeDocumentMoniker": "GradeTest\\GradeCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\GradeTest\\GradeCalculatorTests.cs",
+              "RelativeToolTip": "GradeTest\\GradeCalculatorTests.cs",
+              "ViewState": "AgIAABAAAAAAMTMzMzP1vxsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:23:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\MyApp\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "MyApp\\GradeCalculator.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\MyApp\\GradeCalculator.cs",
+              "RelativeToolTip": "MyApp\\GradeCalculator.cs",
+              "ViewState": "AgIAAAYAAABAAAAAAIAZwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:19:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:18:13.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

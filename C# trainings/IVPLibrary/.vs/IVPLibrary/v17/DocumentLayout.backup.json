@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivplibrary\\ivplibraryconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|solutionrelative:ivplibraryconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivplibrary\\ivplibraryconsole\\bookrepo\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|solutionrelative:ivplibraryconsole\\bookrepo\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivplibrary\\ivplibraryconsole\\bookrepo\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|solutionrelative:ivplibraryconsole\\bookrepo\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivplibrary\\ivplibraryconsole\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948622FA-51FF-425F-9722-986481A2F4FC}|IVPLibraryConsole\\IVPLibraryConsole.csproj|solutionrelative:ivplibraryconsole\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B271E0-67F1-49DF-B983-577A1EE0AF23}|IVPLibrary_DataAccess\\IVPLibrary_DataAccess.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivplibrary\\ivplibrary_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B271E0-67F1-49DF-B983-577A1EE0AF23}|IVPLibrary_DataAccess\\IVPLibrary_DataAccess.csproj|solutionrelative:ivplibrary_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB36A30-2B64-467D-92A5-B28378E02AD5}|IVPLibrary_Models\\IVPLibrary_Models.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivplibrary\\ivplibrary_models\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB36A30-2B64-467D-92A5-B28378E02AD5}|IVPLibrary_Models\\IVPLibrary_Models.csproj|solutionrelative:ivplibrary_models\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibrary_DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "IVPLibrary_DataAccess\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibrary_DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "IVPLibrary_DataAccess\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAADMAAADAAQAAAEAnwDIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:16:05.976Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibrary_Models\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "IVPLibrary_Models\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibrary_Models\\Models\\Books.cs",
+              "RelativeToolTip": "IVPLibrary_Models\\Models\\Books.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAACA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T09:12:47.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\Controller\\BookController.cs",
+              "RelativeDocumentMoniker": "IVPLibraryConsole\\Controller\\BookController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\Controller\\BookController.cs",
+              "RelativeToolTip": "IVPLibraryConsole\\Controller\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:45:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\BookRepo\\IBook.cs",
+              "RelativeDocumentMoniker": "IVPLibraryConsole\\BookRepo\\IBook.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\BookRepo\\IBook.cs",
+              "RelativeToolTip": "IVPLibraryConsole\\BookRepo\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:41:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookOperations.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\BookRepo\\BookOperations.cs",
+              "RelativeDocumentMoniker": "IVPLibraryConsole\\BookRepo\\BookOperations.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\BookRepo\\BookOperations.cs",
+              "RelativeToolTip": "IVPLibraryConsole\\BookRepo\\BookOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:41:34.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\Program.cs",
+              "RelativeDocumentMoniker": "IVPLibraryConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPLibrary\\IVPLibraryConsole\\Program.cs",
+              "RelativeToolTip": "IVPLibraryConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:50:55.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

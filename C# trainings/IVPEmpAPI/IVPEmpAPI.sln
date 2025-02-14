@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVPEmpAPI", "IVPEmpAPI\IVPEmpAPI.csproj", "{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpDataAccess", "EmpDataAccess\EmpDataAccess.csproj", "{20718801-5FF0-4BFF-977B-58C68F5CE2E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpModels", "EmpModels\EmpModels.csproj", "{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20718801-5FF0-4BFF-977B-58C68F5CE2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20718801-5FF0-4BFF-977B-58C68F5CE2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20718801-5FF0-4BFF-977B-58C68F5CE2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20718801-5FF0-4BFF-977B-58C68F5CE2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

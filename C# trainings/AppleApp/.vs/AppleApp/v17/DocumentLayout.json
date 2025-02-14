@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\appleapp\\appleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|solutionrelative:appleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\appleapp\\appleapp\\models\\applecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|solutionrelative:appleapp\\models\\applecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\appleapp\\appleapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|solutionrelative:appleapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\appleapp\\appleapp\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|solutionrelative:appleapp\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\appleapp\\appleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE601E24-5178-4BD7-88C1-3E73C3001DB2}|AppleApp\\AppleApp.csproj|solutionrelative:appleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AppleApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AppleApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAEAlwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:49:18.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BanksController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Controllers\\BanksController.cs",
+              "RelativeDocumentMoniker": "AppleApp\\Controllers\\BanksController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Controllers\\BanksController.cs",
+              "RelativeToolTip": "AppleApp\\Controllers\\BanksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:47:56.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Program.cs",
+              "RelativeDocumentMoniker": "AppleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Program.cs",
+              "RelativeToolTip": "AppleApp\\Program.cs",
+              "ViewState": "AgIAAAIAAADAZmZmZmYUwA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:31:05.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AppleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\appsettings.json",
+              "RelativeToolTip": "AppleApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T12:27:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppleContext.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Models\\AppleContext.cs",
+              "RelativeDocumentMoniker": "AppleApp\\Models\\AppleContext.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\AppleApp\\AppleApp\\Models\\AppleContext.cs",
+              "RelativeToolTip": "AppleApp\\Models\\AppleContext.cs",
+              "ViewState": "AgIAAAAAAAAANDMzMzPrvxoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:19:53.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

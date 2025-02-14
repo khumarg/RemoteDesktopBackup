@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\ivpempapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|solutionrelative:ivpempapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\ivpempapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|solutionrelative:ivpempapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\ivpempapi\\employeerepo\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|solutionrelative:ivpempapi\\employeerepo\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\ivpempapi\\employeerepo\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|solutionrelative:ivpempapi\\employeerepo\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20718801-5FF0-4BFF-977B-58C68F5CE2E1}|EmpDataAccess\\EmpDataAccess.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\empdataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20718801-5FF0-4BFF-977B-58C68F5CE2E1}|EmpDataAccess\\EmpDataAccess.csproj|solutionrelative:empdataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\ivpempapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE421953-8FB2-4AB9-8ACB-A30B656F2AFC}|IVPEmpAPI\\IVPEmpAPI.csproj|solutionrelative:ivpempapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}|EmpModels\\EmpModels.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\empmodels\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}|EmpModels\\EmpModels.csproj|solutionrelative:empmodels\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}|EmpModels\\EmpModels.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivpempapi\\empmodels\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95BA455-E9DD-4F0D-969C-5A53D25AC01C}|EmpModels\\EmpModels.csproj|solutionrelative:empmodels\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "IVPEmpAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "IVPEmpAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAFkAAADQmZmZmfkwwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:35:11.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\EmpModels\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EmpModels\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\EmpModels\\Models\\Student.cs",
+              "RelativeToolTip": "EmpModels\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:29:58.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "IVPEmpAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "IVPEmpAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:22:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\EmployeeRepo\\IEmployee.cs",
+              "RelativeDocumentMoniker": "IVPEmpAPI\\EmployeeRepo\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\EmployeeRepo\\IEmployee.cs",
+              "RelativeToolTip": "IVPEmpAPI\\EmployeeRepo\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:07:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeOperations.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\EmployeeRepo\\EmployeeOperations.cs",
+              "RelativeDocumentMoniker": "IVPEmpAPI\\EmployeeRepo\\EmployeeOperations.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\EmployeeRepo\\EmployeeOperations.cs",
+              "RelativeToolTip": "IVPEmpAPI\\EmployeeRepo\\EmployeeOperations.cs",
+              "ViewState": "AgIAAAkAAABAZmZmZqYswAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:06:48.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\Program.cs",
+              "RelativeDocumentMoniker": "IVPEmpAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\IVPEmpAPI\\Program.cs",
+              "RelativeToolTip": "IVPEmpAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAADAMzMzM/MuwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:51:04.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\EmpModels\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmpModels\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\EmpModels\\Models\\Employee.cs",
+              "RelativeToolTip": "EmpModels\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:30:24.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\EmpDataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmpDataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVPEmpAPI\\EmpDataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmpDataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAADANDMzMzMLwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:29:31.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

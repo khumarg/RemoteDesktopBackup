@@ -1,0 +1,6 @@
+@IVPLoggingAPI_HostAddress = http://localhost:5142
+
+GET {{IVPLoggingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

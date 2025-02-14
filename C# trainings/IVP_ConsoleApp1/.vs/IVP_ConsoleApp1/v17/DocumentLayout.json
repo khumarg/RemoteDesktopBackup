@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivp_consoleapp1\\ivp_consoleapp1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|solutionrelative:ivp_consoleapp1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivp_consoleapp1\\ivp_consoleapp1\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|solutionrelative:ivp_consoleapp1\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivp_consoleapp1\\ivp_consoleapp1\\lambdaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|solutionrelative:ivp_consoleapp1\\lambdaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivp_consoleapp1\\ivp_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|solutionrelative:ivp_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivp_consoleapp1\\ivp_consoleapp1\\linqclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|solutionrelative:ivp_consoleapp1\\linqclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|c:\\users\\kgirdhar\\desktop\\c# trainings\\ivp_consoleapp1\\ivp_consoleapp1\\ivpstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB0AA-8E77-4D28-A74B-9911D38C41E2}|IVP_ConsoleApp1\\IVP_ConsoleApp1.csproj|solutionrelative:ivp_consoleapp1\\ivpstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileHandling.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\FileHandling.cs",
+              "RelativeDocumentMoniker": "IVP_ConsoleApp1\\FileHandling.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\FileHandling.cs",
+              "RelativeToolTip": "IVP_ConsoleApp1\\FileHandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:11:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LambdaClass.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\LambdaClass.cs",
+              "RelativeDocumentMoniker": "IVP_ConsoleApp1\\LambdaClass.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\LambdaClass.cs",
+              "RelativeToolTip": "IVP_ConsoleApp1\\LambdaClass.cs",
+              "ViewState": "AgIAAAkAAABAMzMzM/MqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:52:35.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\Branch.cs",
+              "RelativeDocumentMoniker": "IVP_ConsoleApp1\\Branch.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\Branch.cs",
+              "RelativeToolTip": "IVP_ConsoleApp1\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:28:30.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVPStudent.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\IVPStudent.cs",
+              "RelativeDocumentMoniker": "IVP_ConsoleApp1\\IVPStudent.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\IVPStudent.cs",
+              "RelativeToolTip": "IVP_ConsoleApp1\\IVPStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:53:04.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinqClass.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\LinqClass.cs",
+              "RelativeDocumentMoniker": "IVP_ConsoleApp1\\LinqClass.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\LinqClass.cs",
+              "RelativeToolTip": "IVP_ConsoleApp1\\LinqClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:51:18.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "IVP_ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\kgirdhar\\Desktop\\C# trainings\\IVP_ConsoleApp1\\IVP_ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "IVP_ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAIAAADgmJmZmZkWwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:59:09.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
